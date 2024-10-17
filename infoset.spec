@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 # svn export https://svn.freecompany.org/public/util/tags/infoset-0.1.2
 # zip -9r infoset-src-0.1.2.zip infoset-0.1.2
 Source0:        http://repository.freecompany.org/org/freecompany/infoset/zips/infoset-src-%{version}.zip
